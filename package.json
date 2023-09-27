@@ -1,6 +1,6 @@
 {
   "name": "react-ui-kanban",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "React UI Kanban Board",
   "main": "dist/index.js",
   "files": [
