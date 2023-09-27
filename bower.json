@@ -1,0 +1,22 @@
+{
+  "name": "react-ui-kanban",
+  "description": "React UI Kanban (browserified)",
+  "main": "dist/index.js",
+  "authors": [
+    "FelipeBattistotti"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "kanban",
+    "board"
+  ],
+  "homepage": "https://github.com/FelipeBattistotti/react-ui-kanban",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

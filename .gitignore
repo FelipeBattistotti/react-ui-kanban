@@ -1,0 +1,11 @@
+node_modules
+*.log
+.DS_Store
+coverage
+.idea
+npm-debug.log
+dist/
+.history/
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
