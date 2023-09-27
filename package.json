@@ -1,6 +1,6 @@
 {
   "name": "react-ui-kanban",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "React UI Kanban Board",
   "main": "dist/index.js",
   "files": [
@@ -109,7 +109,6 @@
     "react-dom": "*",
     "react-redux": ">= 5.0.7",
     "redux": ">= 4.0.0",
-    "redux-actions": ">= 2.6.1",
     "redux-logger": ">= 3.0.6",
     "styled-components": ">= 4.0.3"
   },
