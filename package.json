@@ -46,7 +46,7 @@
     "react-popopo": "^2.1.9",
     "react-redux": "^8.1.2",
     "redux": "^4.2.1",
-    "redux-actions": "^3.0.0",
+    "redux-actions": "2.6.5",
     "redux-logger": "^3.0.6",
     "trello-smooth-dnd": "1.0.0",
     "uuid": "^9.0.1"
