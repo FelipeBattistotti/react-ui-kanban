@@ -25,7 +25,7 @@ Pluggable components to add a Kanban board to your application
 Install using npm or yarn or pnpm
 
 ```bash
-$ npm install --save react-ui-kanban
+$ npm i react-ui-kanban
 ```
 
 or
@@ -84,18 +84,6 @@ export default class App extends React.Component {
 Refer to storybook for detailed examples: https://FelipeBattistotti.github.io/react-ui-kanban/
 
 Also refer to the sample project that uses react-ui-kanban as illustration: https://github.com/FelipeBattistotti/react-ui-kanban-example
-
-## Use edge version of project (current master branch)
-
-```bash
-$ yarn add FelipeBattistotti/react-ui-kanban
-```
-
-and
-
-```javascript
-import Board from 'react-ui-kanban/src'
-```
 
 ## Properties
 
