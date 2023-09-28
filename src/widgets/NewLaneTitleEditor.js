@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import {InlineInput} from 'rt/styles/Base'
+import {InlineInput} from '../styles/Base'
 import autosize from 'autosize'
 
 class NewLaneTitleEditor extends React.Component {

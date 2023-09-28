@@ -7,9 +7,9 @@ import {
   CardTitle,
   CardWrapper,
   Detail
-} from 'rt/styles/Base'
-import {AddButton, CancelButton} from 'rt/styles/Elements'
-import EditableLabel from 'rt/widgets/EditableLabel'
+} from '../styles/Base'
+import {AddButton, CancelButton} from '../styles/Elements'
+import EditableLabel from '../widgets/EditableLabel'
 
 class NewCardForm extends Component {
   updateField = (field, value) => {

@@ -8,10 +8,10 @@ import {
   CardTitle,
   Detail,
   Footer
-} from 'rt/styles/Base'
-import InlineInput from 'rt/widgets/InlineInput'
+} from '../styles/Base'
+import InlineInput from '../widgets/InlineInput'
 import Tag from './Card/Tag'
-import DeleteButton from 'rt/widgets/DeleteButton'
+import DeleteButton from '../widgets/DeleteButton'
 
 class Card extends Component {
   onDelete = e => {

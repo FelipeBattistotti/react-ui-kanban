@@ -1,10 +1,10 @@
 import React from 'react'
 import {storiesOf} from '@storybook/react'
-import {MovableCardWrapper } from 'rt/styles/Base'
-import DeleteButton from 'rt/widgets/DeleteButton'
+import {MovableCardWrapper } from '../src/styles/Base'
+import DeleteButton from '../src/widgets/DeleteButton'
 
 import Board from '../src'
-import Tag from 'rt/components/Card/Tag'
+import Tag from '../src/components/Card/Tag'
 
 const CustomCard = ({
   onClick,

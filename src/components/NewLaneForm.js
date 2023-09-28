@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import { LaneTitle, NewLaneButtons, Section } from 'rt/styles/Base'
-import { AddButton, CancelButton } from 'rt/styles/Elements'
-import NewLaneTitleEditor from 'rt/widgets/NewLaneTitleEditor'
+import { LaneTitle, NewLaneButtons, Section } from '../styles/Base'
+import { AddButton, CancelButton } from '../styles/Elements'
+import NewLaneTitleEditor from '../widgets/NewLaneTitleEditor'
 import { v1 as uuidv1 } from 'uuid'
 
 class NewLane extends Component {

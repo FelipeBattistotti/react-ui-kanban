@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 import { Popover } from 'react-popopo'
 
-import { CustomPopoverContent, CustomPopoverContainer } from 'rt/styles/Base'
+import { CustomPopoverContent, CustomPopoverContainer } from '../styles/Base'
 
 import {
   LaneMenuTitle,
@@ -13,7 +13,7 @@ import {
   LaneMenuItem,
   GenDelButton,
   MenuButton,
-} from 'rt/styles/Elements'
+} from '../styles/Elements'
 
 const TEST= PropTypes.elementType;
 
