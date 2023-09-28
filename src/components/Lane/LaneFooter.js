@@ -1,6 +1,6 @@
 import React from 'react'
 
-import {LaneFooter} from '../styles/Base'
+import { LaneFooter } from '../../styles/Base'
 
 import {
   CollapseBtn,
