@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import InlineInput from '../widgets/InlineInput'
+import InlineInput from '../../widgets/InlineInput'
 import { Title, LaneHeader, RightContent } from '../../styles/Base'
 import LaneMenu from './LaneHeader/LaneMenu'
 
@@ -20,7 +20,7 @@ const LaneHeaderComponent = ({
         <RightContent>
           <span style={labelStyle}>{label}</span>
         </RightContent>
-       )}
+      )}
       {canAddLanes && <LaneMenu t={t} onDelete={onDelete}/>}
     </LaneHeader>
   )
