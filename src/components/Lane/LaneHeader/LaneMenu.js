@@ -13,7 +13,7 @@ import {
   LaneMenuItem,
   GenDelButton,
   MenuButton,
-} from '../styles/Elements'
+} from '../../../styles/Elements'
 
 const TEST= PropTypes.elementType;
 
